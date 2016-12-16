@@ -1,5 +1,7 @@
 # DEPRECATED - can't maintain this any more, sorry for any inconvenience #
 
+Please use https://github.com/williamespindola/rabbitmq-service-provider instead!
+
 # RabbitMq Service Provider for Silex #
 
 ## About ##
