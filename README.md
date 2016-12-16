@@ -1,3 +1,5 @@
+# DEPRECATED - can't maintain this any more, sorry for any inconvenience #
+
 # RabbitMq Service Provider for Silex #
 
 ## About ##
